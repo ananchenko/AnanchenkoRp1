@@ -14,7 +14,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
+//agjagag
 void MainWindow::on_countLineBtn_clicked()
 {
     //количество строк кода
